@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ganache": "^7.9.1",
+    "web3": "^4.1.1"
+  }
+}
